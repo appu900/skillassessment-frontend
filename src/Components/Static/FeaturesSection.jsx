@@ -16,8 +16,7 @@ function FeaturesSection() {
             <span className="text-blue-600">different locations</span>
           </h2>
           <p className="mt-4 max-w-2xl mx-auto text-xl text-gray-700 leading-relaxed">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad
-            voluptatibus totam nulla temporibus accusantium libero?
+            Our mission at Centurion University of Technology and Management is to deliver transformative education that integrates skill development, industry engagement, and academic excellence. As an awarding body, we aim to bridge the gap between education and employability by fostering innovation, inclusivity, and social responsibility. We are committed to empowering learners with practical knowledge and values that drive sustainable livelihoods, community development, and lifelong learning.
           </p>
         </div>
 

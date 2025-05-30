@@ -10,12 +10,7 @@ function AboutUsSection() {
               About <span className="text-blue-600">Us</span>
             </h2>
             <p className="text-gray-700 text-lg leading-relaxed mb-8">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis
-              eros at lacus feugiat hendrerit sed ut tortor. Suspendisse et
-              magna quis elit efficitur consequat. Mauris eleifend velit a
-              pretium iaculis. Donec sagittis velit et magna euismod, vel
-              aliquet nulla malesuada. Nunc pharetra massa lectus, a fermentum
-              arcu volutpat vel.
+              Centurion University of Technology and Management (CUTM) is a pioneering institution recognized for its commitment to skill-integrated, outcome-based education. As an awarding body, CUTM empowers learners with nationally and globally relevant qualifications, blending academic excellence with hands-on industry training. Accredited and acclaimed for its innovation-driven model, the university serves as a catalyst for sustainable development and inclusive growth, shaping job-ready professionals and entrepreneurs across diverse sectors.
             </p>
             <a
               href="/about"
